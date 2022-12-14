@@ -25,9 +25,9 @@ let verifySession = async () => {
             setOptionsRoom()
             setTable()
         }else{
-            window.location.href = "http://localhost:8080/"
+            window.location.href = "https://jesuscab77.github.io/"
         }
     }else{
-        window.location.href = "http://localhost:8080/"
+        window.location.href = "https://jesuscab77.github.io/"
     }
 }
